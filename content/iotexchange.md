@@ -1,7 +1,7 @@
 ---
 title: "IoT Exchange"
 date: 2018-10-07T13:16:39-07:00
-draft: true
+draft: false
 ---
 
 [add an image here prob lol]

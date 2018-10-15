@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-10-15T00:23:11-07:00
-draft: true
+draft: false
 ---
 <div class="about-section-wrapper">
     <div class="about-image">

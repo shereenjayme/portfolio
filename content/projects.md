@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2018-10-07T12:28:49-07:00
-draft: true
+draft: false
 ---
 
 {{% portfolio link="iotexchange" image="/portpics/tccportfolio.jpg" alt="Coming soon" %}}
