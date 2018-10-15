@@ -1,0 +1,21 @@
+{{ if .IsNamedParams }}
+  {{ $.Scratch.Add "image" ( .Get "image") }}
+  {{ $.Scratch.Add "alt" ( .Get "alt") }}
+  {{ $.Scratch.Add "link" ( .Get "link") }}
+{{ else }}
+  {{ $.Scratch.Add "image" "" }}
+  {{ $.Scratch.Add "alt" "" }}
+  {{ $.Scratch.Add "link" "" }}
+{{ end }}
+
+{{ $image := $.Scratch.Get "image" }}
+{{ $alt := $.Scratch.Get "alt" }}
+{{ $link := $.Scratch.Get "link" }}
+<div class="portfolio">
+    <div class="portfolio-inner">
+        <div class="portfolio-image"><a href="{{ $link }}"><img src="{{ $image }}" alt="{{ $alt }}"></a></div>
+        <div class="portfolio-content">
+            {{ .Inner }}
+        </div>
+	</div>
+</div>
