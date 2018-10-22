@@ -1,7 +1,7 @@
 +++
 title = "Projects"
 slug = "projects"
-thumbnail = "images/tn.png"
+thumbnail = ""
 description = "projects"
 +++
 

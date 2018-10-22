@@ -29,7 +29,7 @@ disqusShortname = "yourdiscussshortname"
 
     snsShare = true
 
-    thumbnail = "images/tn.png"
+    thumbnail = ""
 
     # Custom CSS
     custom_css = []

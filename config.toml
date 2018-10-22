@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com" # Hostname (and path) to the root.
+baseurl = "https://shereenjayme.github.io" # Hostname (and path) to the root.
 title = "Shereen Jayme" # Site title.
 theme = "coder-portfolio" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
@@ -16,11 +16,11 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 [params] # theme parameters
     author = "Hi, my name is Shereen" # Author's name.
     info = "UX Designer Based in Orange County, CA" # Author's job title or info.
-    description = "Yusuke Ishimi's personal website" # Site description.
-    keywords = "blog,developer,personal" # Site keywords.
+    description = "Shereen Jayme's Personal Site" # Site description.
+    keywords = "blog,designer,personal" # Site keywords.
     avatarurl = "" # Contain the path of the optionnal avatar in the static folder.
 
-    footercontent = "" # Add footer content
+    footercontent = "Interested in chatting? " # Add footer content
     fixedbarContent = "Interested in chatting? " # Add fixedbar content
     fixedbarContentAfter = "" # Add fixedbar content after click
 
@@ -39,7 +39,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 
     snsShare = false # new add
 
-    thumbnail = "images/tn.png" # default sns thumbnail
+    thumbnail = "/portpics/placeholderlol.jpg" # default sns thumbnail
 
     # Multilanguage mode
     langseparator = "|" # Separates menus from language selectors when site is multilingual.
@@ -48,7 +48,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 [[params.social]]
     name = "Github"
     weight = 1
-    url = "https://github.com/sjayme/"
+    url = "https://github.com/shereenjayme/"
 [[params.social]]
     name = "Twitter"
     weight = 2

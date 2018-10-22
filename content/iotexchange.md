@@ -4,12 +4,13 @@ date: 2018-10-07T13:16:39-07:00
 draft: false
 ---
 
-[add an image here prob lol]
+![tcc starting pic](/portpics/tccportfolio.jpg#center)
 
 **Name:** IoT Exchange <br>
 **Company:** The Channel Company <br>
 **Mentors:** Adelaide Reilly, Rauline Ochs, Mark Petter <br>
-**Team members:** *Team Fluent.ly* - Julia Hoang, Victoria Lai, Kyle Mamiit, Chris Pile
+**Team members:** *Team Fluent.ly* - Julia Hoang, Victoria Lai, Kyle Mamiit, Chris Pile <br>
+**Stack:** React, Node, MySQL, Express, AWS
 
 ---
 
@@ -148,11 +149,22 @@ Below are the wireframes for the most important features of the system.
 For the interface we wanted to create a clean and simple design to order to lessen any confusion users potentially might come across. We aimed to create interfaces that were intuitive enough for anyone to use. Arguably the most important page, the start a match page, features checkboxes to click on that represent each skill they are looking for. We decided on checkboxes because we thought it was quick and efficient while still being easy to understand.
 
 ### Prototypes
-[insert screenshots of prototypes here]
+
+Below are screenshots of our system. Due to time restrictions, The Channel Company wanted us to perfect the backend of the system rather than the frontend. We dedicated most of our time getting the database finished and fetching the right data. Unfortunately, there were ideas that we were not able to implement because of this such as Geo Location for finding a match and the match history.
+
+![tcc login](/tcc/login.png#center)
+
+![tcc dash](/tcc/dashboard.png#center)
+
+![tcc start match](/tcc/startmatch.png#center)
+
+![tcc found match](/tcc/foundmatches.png#center)
 
 ----------------------------
 
 ## Final Thoughts
+### What's Next
+The next stage for this system is to get the look and feel of The Channel Company integrated within it. At the end of the school quarter, the system looks very simple because of the time constraints and the shift in our focus when working on it. Implementing the features that we were not able to touch on within our time on this project will also be done in the future. Integrating The Channel Company's branding and finishing features will push the system in the right direction and closer to getting it online for users to try. 
+
 ### Lessons Learned
 This project was the biggest project of my undergraduate career at UCI. I was able to enhance my teamwork and communication skills in order to design a working prototype for a success company filled with knowledgeable people. With weekly meetings with The Channel Company as well as Team Fluent.ly I was able to get accustomed to an agile workflow and high intensity work loads.
-

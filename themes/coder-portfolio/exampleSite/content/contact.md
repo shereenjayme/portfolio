@@ -1,7 +1,7 @@
 +++
 title = "Contact"
 slug = "contact"
-thumbnail = "images/tn.png"
+thumbnail = ""
 description = "contact"
 +++
 
