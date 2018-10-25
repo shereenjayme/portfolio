@@ -8,6 +8,7 @@ draft: false
 
 **Name:** IoT Exchange <br>
 **Company:** The Channel Company <br>
+**Role:** UX/UI Designer <br>
 **Mentors:** Adelaide Reilly, Rauline Ochs, Mark Petter <br>
 **Team members:** *Team Fluent.ly* - Julia Hoang, Victoria Lai, Kyle Mamiit, Chris Pile <br>
 **Stack:** React, Node, MySQL, Express, AWS

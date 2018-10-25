@@ -17,9 +17,9 @@ A matching system for IT and OT partners to easily find each other in order to f
 
 {{% portfolio link="lyftkids" image="/portpics/comingsoon.jpg" alt="Coming soon" %}}
 
-## [Coming Soon](/lyftkids)
+## [Skype Redesign](/skyperedesign)
 
-Coming soon lol
+A redesign for the well known application, Skype, using UX methods and principles.
 
 {{% /portfolio %}}
 

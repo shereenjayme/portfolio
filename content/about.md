@@ -11,7 +11,7 @@ draft: false
         <h2>My name is Shereen</h2>
         <p>* I don't have cute pics of myself yet btw lol *
 
-I am a product designer that specializes in both website and mobile applications. Recently graduating from UC Irvine with a B.S. in Informatics, I use my HCI specialization in order to create human-centered designs.
+I am a user experience designer that specializes in both website and mobile applications. Recently graduating from UC Irvine with a B.S. in Informatics, I use my HCI specialization in order to create human-centered designs.
 
 When I'm not creating iterative designs, I enjoy keeping up with hockey, eating at new restaurants, and watching the Office. 
 
