@@ -47,6 +47,12 @@
     {{ end }}
 
     {{ .Hugo.Generator }}
+
+    @font-face {
+      font-family: Segoe UI;
+      src: url('Segoe UI.ttf');
+    }
+    
   </head>
 
   <body class="{{ if .Site.Params.rtl }}rtl{{ end }}">
