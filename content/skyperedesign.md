@@ -4,29 +4,29 @@ date: 2018-10-08T00:13:32-07:00
 draft: false
 ---
 
-[add a picture lmao]
+![skype redesign cover](/portpics/skypeproject.jpg)
 
 **Name:** Skype Redesign <br>
 **Role:** UX/UI Designer <br>
 **People involved:** Fanny Guan, Julia Hoang, Shereen Jayme, Victoria Lai, Kenzo Makitani <br>
-**Tools Used:** Photoshop lol
+**Tools Used:** Photoshop
 
 ---
 
 ## Overview
 
-This case study outlines a school project where I teamed up with four other students to redesign the application Skype. Within the span of ten weeks we identified usability issues with the Skype interface. We recruited users to help us understand what we thought the target audience was. These participants ranged from 15-25 year olds. With the help of these users, we redesigned the interface of Skype using their feedback. There was no coding involved in this project.
+This case study outlines a school project where I teamed up with four other students to redesign the application Skype. Within the span of ten weeks we identified usability issues with the Skype interface. We recruited users to help us understand the target audience of the application. These participants ranged from 15-25 year olds. With the help of these users, we redesigned the interface of Skype using their feedback. There was no coding involved in this project.
 
 ### The Approach
 
 To make this case study easy to follow, each part is split into their own section and listed below.
 
-* **Understanding the Product:** Application Research, Competitive Analysis
-* **Understanding Users:** Interviews, Survey, Affinity Diagram
-* **Identifying Usability Issues:** Usability tests, Cognitive Walkthrough
-* **The Redesign:** Sketches, Wireframes, High Fidelity Prototypes
-* **Testing Redesign:** Heuristic Evaluation
-* **Final Thoughts:** Lessons Learned
+* **[Understanding the Product:](/skyperedesign/#understanding-the-product)** Application Research, Competitive Analysis
+* **[Understanding Users:](/skyperedesign/#understanding-users)** Interviews, Survey, Affinity Diagram
+* **[Identifying Usability Issues:](/skyperedesign/#identifying-usability-issues)** Usability tests, Cognitive Walkthrough
+* **[The Redesign:](/skyperedesign/#the-redesign)** Sketches, Wireframes, High Fidelity Prototypes
+* **[Testing Redesign:](/skyperedesign/#testing-redesign)** Heuristic Evaluation
+* **[Final Thoughts:](/skyperedesign/#final-thoughts)** Lessons Learned
 
 ---
 

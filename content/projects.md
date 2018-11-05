@@ -15,7 +15,7 @@ A matching system for IT and OT partners to easily find each other in order to f
 -----------------------------
 
 
-{{% portfolio link="lyftkids" image="/portpics/comingsoon.jpg" alt="Coming soon" %}}
+{{% portfolio link="skyperedesign" image="/portpics/skypeproject.jpg" alt="Coming soon" %}}
 
 ## [Skype Redesign](/skyperedesign)
 

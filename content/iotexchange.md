@@ -30,11 +30,11 @@ To tackle such a large task as this it was important to step back for a second a
 There are five sections within this case study that outline the approach of this project.
 
 
-* **Context:** Problem/Goal
-* **Understanding Users:** Company research, Interviews, Personas, Competitive Analysis
-* **Setting the Stage:** Requirements, Interaction Flow
-* **Design:** Wireframes, Prototypes
-* **Final Thoughts:** Lessons learned
+* **[Context:](/iotexchange/#context)** Problem/Goal
+* **[Understanding Users:](/iotexchange/#understanding-users)** Company research, Interviews, Personas, Competitive Analysis
+* **[Setting the Stage:](/iotexchange/#setting-the-stage)** Requirements, Interaction Flow
+* **[Design:](/iotexchange/#design)** Wireframes, Prototypes
+* **[Final Thoughts:](/iotexchange/#final-thoughts)** Lessons learned
 
 
 ----------------------------
