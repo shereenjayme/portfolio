@@ -2,6 +2,8 @@
 <html lang="{{ .Site.LanguageCode }}">
 
   <head>
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -48,11 +50,6 @@
 
     {{ .Hugo.Generator }}
 
-    @font-face {
-      font-family: Segoe UI;
-      src: url('Segoe UI.ttf');
-    }
-    
   </head>
 
   <body class="{{ if .Site.Params.rtl }}rtl{{ end }}">
